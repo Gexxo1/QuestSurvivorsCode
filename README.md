@@ -12,7 +12,7 @@ This was the first major game I created, and it represents a huge learning miles
 
 ## 🎓 Bachelor's Thesis Project
 
-This game wasn't just a passion project; it also served as the case study for my Bachelor's thesis in Computer Science.
+This game wasn't just a passion project; it serves as the case study for my Bachelor's thesis in Computer Science.
 
 *   **Thesis Title:** "An In-Depth Analysis of Programming Aspects in 2D Video Game Development with Unity"
 *   **Author:** Giuliano Spata
@@ -26,6 +26,7 @@ While the project's goal was to apply and analyze programming solutions like the
 
 'Quest Survivors' is a 2D top-down survivor roguelite where you fight hordes of enemies, level up with powerful abilities, and survive till the final boss.
 It is inspired by games like 'Vampire Survivors' or 'Enter the Gungeon'.
+You can find more in my itch.io page linked above.
 The game was built using **Unity 2D (version 2021.3.16f1)**.
 
 ## Scripts Structure
