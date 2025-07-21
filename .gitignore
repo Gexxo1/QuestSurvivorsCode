@@ -1,0 +1,8 @@
+# Ignore Unity meta files
+# as this is not meant to be opened in a project
+*.meta
+
+# Ignore temporary or system files
+*.bak
+*.tmp
+*.swp
