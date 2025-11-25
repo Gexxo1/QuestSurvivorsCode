@@ -14,11 +14,11 @@ This was the first major game I created, and it represents a huge learning miles
 
 This game wasn't just a passion project; it serves as the case study for my Bachelor's thesis in Computer Science.
 
-*   **Thesis Title:** "An In-Depth Analysis of Programming Aspects in 2D Video Game Development with Unity"
+*   **Thesis Title:** "Design, Implementation, and Optimization of a 2D Game in Unity"
 *   **Author:** Giuliano Spata
 *   **University:** University of Catania (Department of Mathematics and Computer Science)
 
-While the project's goal was to apply and analyze programming solutions like the **Observer, Object Pooling, and Singleton patterns**, I also poured my creativity into it to make a genuinely fun and complete game. The result is a blend of academic requirements and my personal vision for a fast-paced roguelite.
+While the project's goal was to apply and analyze programming solutions like the **Observer, Object Pooling**, I also poured my creativity into it to make a genuinely fun and complete game. The result is a blend of academic requirements and my personal vision for a fast-paced roguelite.
 
 ---
 
